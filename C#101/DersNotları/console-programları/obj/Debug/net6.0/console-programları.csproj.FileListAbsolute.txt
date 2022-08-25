@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\test\console-programları\bin\Debug\net6.0\console-programları.exe
+C:\Users\FURKAN\Desktop\test\console-programları\bin\Debug\net6.0\console-programları.deps.json
+C:\Users\FURKAN\Desktop\test\console-programları\bin\Debug\net6.0\console-programları.runtimeconfig.json
+C:\Users\FURKAN\Desktop\test\console-programları\bin\Debug\net6.0\console-programları.dll
+C:\Users\FURKAN\Desktop\test\console-programları\bin\Debug\net6.0\console-programları.pdb
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.dll
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\refint\console-programları.dll
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.pdb
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\console-programları.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\test\console-programları\obj\Debug\net6.0\ref\console-programları.dll

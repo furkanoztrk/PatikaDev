@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\test\diziler-array\bin\Debug\net6.0\diziler-array.exe
+C:\Users\FURKAN\Desktop\test\diziler-array\bin\Debug\net6.0\diziler-array.deps.json
+C:\Users\FURKAN\Desktop\test\diziler-array\bin\Debug\net6.0\diziler-array.runtimeconfig.json
+C:\Users\FURKAN\Desktop\test\diziler-array\bin\Debug\net6.0\diziler-array.dll
+C:\Users\FURKAN\Desktop\test\diziler-array\bin\Debug\net6.0\diziler-array.pdb
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.dll
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\refint\diziler-array.dll
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.pdb
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\diziler-array.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\test\diziler-array\obj\Debug\net6.0\ref\diziler-array.dll

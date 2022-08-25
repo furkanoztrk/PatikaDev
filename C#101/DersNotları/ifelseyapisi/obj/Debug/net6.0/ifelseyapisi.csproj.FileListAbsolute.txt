@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.exe
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.deps.json
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.runtimeconfig.json
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.dll
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.pdb
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.dll
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\refint\ifelseyapisi.dll
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.pdb
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\test\ifelseyapisi\obj\Debug\net6.0\ref\ifelseyapisi.dll
